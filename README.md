@@ -10,6 +10,9 @@ In a SISO shift register, data is inputted and outputted sequentially, one bit a
 ![image](https://github.com/user-attachments/assets/d745bf63-218e-4ba5-8a3f-8e4c132aaa01)
 
 **simulation results:**
+![image](https://github.com/user-attachments/assets/d18a9b5c-62fa-4ccd-b246-9920943b6652)
 
 
 **schematic:**
+
+![image](https://github.com/user-attachments/assets/0b25ae1b-85a2-4fa8-b2dd-54ef5c877135)
